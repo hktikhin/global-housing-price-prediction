@@ -21,6 +21,7 @@ The purpose of this project is to answer the following question:
 - Can I use clustering to understand the price trend for different countries better?
 - What if we are not trading quarterly but dayly or yearly?
 - Should I impute the data to avoid information loss?
+- How can we identify bubble for housing market(When will housing market crash)?
 
 ### Remark
 - The result of this analysis is based on the past data. It is not reliable and recommanded for furture invesement.
