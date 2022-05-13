@@ -22,3 +22,6 @@ The purpose of this project is to answer the following question:
 - What if we are not trading quarterly but dayly or yearly?
 - Should I impute the data to avoid information loss?
 
+### Remark
+- The result of this analysis is based on the past data. It is not reliable and recommanded for furture invesement.
+
